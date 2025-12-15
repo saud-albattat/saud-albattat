@@ -1,16 +1,31 @@
-## Hi there 👋
+# Welcome! | I'm Saud Albattat 
+### Analytical Epidemiologist & Public Health Specialist
 
-<!--
-**saud-albattat/saud-albattat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **MSc Epidemiology graduate from Imperial College London** with a focus on translating complex clinical and public health data into actionable insights.
 
-Here are some ideas to get you started:
+I use my GitHub to share the technical side of my research, demonstrating how I apply advance statistical concepts to solve real-world health problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Education:** MSc in Epidemiology (Imperial College London) | Bachelor of Public Health (1st Honours).
+- **Currently** working on:  **Job Hunting**
+
+---
+
+### Technical Stack
+I specialize in managing large epidemiological datasets and end-to-end analysis workflows.
+
+* **Languages:** R (Expert in `tidyverse`, `dplyr`, `ggplot2`, `broom`).
+* **Analysis:** Survival Analysis, Multivariable Regression, Infectious Disease Modelling, Machine Learning.
+* **Tools:** Git, GitHub, SPSS, GIS.
+
+---
+
+### Featured Projects
+* **Environmental Epidemiology:** Analysis of noise exposure and hypertension using survival analysis on a cohort of 14,000 participants.
+* **Healthcare Utilisation (Thesis):** Large-scale data harmonisation and multivariable modelling using Brazil's national survey data (PNS).
+* **Machine Learning in Health:** Implementing classification methods to analyze epigenetic aging.
+
+---
+
+### Connect with me
+* [LinkedIn](https://www.linkedin.com/in/saud-albattat/)
+* [Email](mailto:saudh1126@gmail.com)
