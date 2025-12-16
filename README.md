@@ -1,4 +1,4 @@
-# Welcome! | I'm Saud Albattat 
+# Welcome! | I'm Saud Albattat                                                      ![Profile Views](https://komarev.com/ghpvc/?username=saud-albattat&color=green&style=flat-square&label=Profile+Views)
 ### Analytical Epidemiologist & Public Health Specialist
 
 I am an **MSc Epidemiology graduate from Imperial College London** with a focus on translating complex clinical and public health data into actionable insights.
