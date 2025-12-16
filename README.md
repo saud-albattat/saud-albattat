@@ -19,9 +19,8 @@ I specialize in managing large epidemiological datasets and end-to-end analysis 
 
 ---
 
-### Featured Projects
+### Future Projects
 * **Environmental Epidemiology:** Analysis of noise exposure and hypertension using survival analysis on a cohort of 14,000 participants.
-* **Healthcare Utilisation (Thesis):** Large-scale data harmonisation and multivariable modelling using Brazil's national survey data (PNS).
 * **Machine Learning in Health:** Implementing classification methods to analyze epigenetic aging.
 
 ---
